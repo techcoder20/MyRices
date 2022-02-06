@@ -1,0 +1,9 @@
+{
+    "name": "Gruvbox-Qtile",
+    "gtkTheme": "gruvbox-gtk",
+    "iconTheme": "Papirus",
+    "cursorTheme": "Nordic-cursors",
+    "shell": "fish",
+    "desktopEnvironment": "plasma",
+    "windowManager": "qtile"
+}
